@@ -20,5 +20,12 @@
 
 ---
 
+# IMdB Report OverView 
+
+<img width="1131" height="637" alt="Screenshot 2026-06-17 200214" src="https://github.com/user-attachments/assets/450cb491-7b86-4bc0-aa54-ffae491ff514" />
+
+
+---
+
 ### 🛠️ Tech Stack Used For This Analysis
 `Python 3` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `SciPy` for statistical analysis and correlation testing.
