@@ -22,7 +22,13 @@
 
 # IMdB Report OverView 
 
+<img width="1137" height="637" alt="Screenshot 2026-06-17 235737" src="https://github.com/user-attachments/assets/baf39fe4-0abf-42be-b8e7-ca715fe5c6b8" />
+
 <img width="1131" height="637" alt="Screenshot 2026-06-17 200214" src="https://github.com/user-attachments/assets/450cb491-7b86-4bc0-aa54-ffae491ff514" />
+
+<img width="1137" height="643" alt="Screenshot 2026-06-17 201356" src="https://github.com/user-attachments/assets/07508cbb-3d22-40a3-aa2a-659823e86176" />
+
+<img width="1132" height="642" alt="Screenshot 2026-06-17 201209" src="https://github.com/user-attachments/assets/ac939ec9-d6ec-444c-af14-68d0b8481fbf" />
 
 
 ---
