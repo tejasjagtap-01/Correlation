@@ -1,3 +1,6 @@
+
+
+
 # 📈 Executive Summary & Entertainment Insights
 
 ---
@@ -35,3 +38,16 @@
 
 ### 🛠️ Tech Stack Used For This Analysis
 `Python 3` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `SciPy` for statistical analysis and correlation testing.
+
+
+---
+
+## 👤 Project Author & About Me
+
+This end-to-end pipeline and analytical report was developed by **Tejas Jagtap**. 
+
+I am a **Aspiring Data Analyst** focused on bridging the gap between robust data infrastructure and executive decision-making. I specialize in designing clean ETL architectures, authoring complex server-side analytical data models, and translating tracking metrics into high-impact interactive visual stories.
+
+* **Core Competencies:** Full-Stack Data Engineering, Database Modeling (SQL/PostgreSQL), Python Automation, UI/UX Dashboard Design (Power BI).
+* **📬 Let's Connect:** www.linkedin.com/in/tejasjagtap01 | [GitHub] https://github.com/tejasjagtap-01
+* | [Portfolio/Website] https://mavenshowcase.com/profile/788113c0-5061-70b8-3303-fdd74d72b9be 
