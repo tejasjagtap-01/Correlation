@@ -1,6 +1,3 @@
-
-
-
 # 📈 Executive Summary & Entertainment Insights
 
 ---
