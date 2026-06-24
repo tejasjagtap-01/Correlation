@@ -1,3 +1,6 @@
+<img width="1278" height="720" alt="Stdio (1) compress" src="https://github.com/user-attachments/assets/749d0988-70bb-4e1b-81b7-272cfdb7224c" />
+
+
 # 📈 Executive Summary & Entertainment Insights
 
 ---
