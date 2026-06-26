@@ -37,7 +37,7 @@
 ---
 
 ### 🛠️ Tech Stack Used For This Analysis
-`Python 3` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `SciPy` for statistical analysis and correlation testing.
+`Python 3` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` for statistical analysis and correlation testing.
 
 
 ---
